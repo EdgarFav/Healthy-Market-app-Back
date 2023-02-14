@@ -1,2 +1,5 @@
 #ignora la carpeta node modules
 node_modules
+
+#ignora el archivo package-lock.json
+package-lock.json
